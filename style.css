@@ -1,0 +1,83 @@
+body{
+  
+    background-color: darkorchid;
+  
+}
+
+#title{
+    text-align: center;
+    transform: translate(1px,160px);
+    color:beige;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;     
+}
+hr{
+    width: 500px;
+   transform: translate(10px,140px);
+}
+.box{
+    width: 600px;
+    height: 270px;
+   background-color:orchid;
+   padding: 10px;
+   transform: translate(400px , 160px);
+   border-radius: 80px;
+  text-align: center;
+}
+#textLabel{
+    font-size:20px;
+    color: darkslateblue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#textBox{
+    border-radius: 10px;
+    background-color:lightpink;
+    height: 30px;
+
+}
+#checkButton{
+   transform: translate(10px,30px);
+   width: 100px;
+   height: 40px;
+}
+#attemptLabel{
+    text-align: right;
+    transform: translate(-20px,-370px);
+    font-size: 40px;
+    color: hotpink;
+    font-family:'Times New Roman', Times, serif ;
+}
+
+#circle{
+    background-color: bisque;
+    border-radius:50px;
+    width: 100px;
+    height: 100px;
+   transform: translate(1100px,-400px);
+}
+#attemptCount{
+    text-align: right;
+    font-size: 50px;
+    transform: translate(-160px,-530px);
+}
+#win{
+    color: palevioletred;
+    text-align: center;
+}
+#image{
+    margin-left: 500px;
+    width: 300px;
+    height: 300px;
+}
+#lose{
+    color:deeppink;
+    text-align: center;
+}
+#loser{
+     margin-left: 500px; 
+     width: 300px;
+     height: 300px;
+ }
+
+
+
+
